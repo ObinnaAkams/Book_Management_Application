@@ -1,8 +1,7 @@
 # Book_Management_Application
 
 ## Overview
-This repository contains code for a book management web application built with HTML, CSS, Javascript, NodeJS, EJS, Axios, Express.js, a web framework for Node.js. The application implements various text-to-speech functionalties, API calls, authentication features, session management, database operations using PostgreSQL, search, filtering, sort, edit and delete operations, .
-
+Developed a comprehensive book management web application using HTML, CSS, JavaScript, Node.js, Express.js, and EJS templates, with PostgreSQL as the database. Features include user authentication via Passport.js with Google OAuth and bcrypt for secure registration and login, session management, and API integrations with Axios. The application supports text-to-speech functionality, dynamic content rendering, and advanced book management operations such as search, filtering, sorting, adding, editing, and deletion operations.
 ## Features
 - **Authentication**: 
   - Implements bcrypt for password hashing during user registration and login.
